@@ -1,11 +1,10 @@
-# CS220 AU portfolio
+# 2004810 AU portfolio
 ## Overview
-This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
 
 It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
 - project management
 - writing articles
-- web-design with [GitHub Pages](https://pages.github.com/)
+- web-design with wordpress
 - self-and peer-assessment
 - final checklist 
 
@@ -51,6 +50,22 @@ How to use this GitHub repository as a template for your submission, including h
 ## Log
 - 14/10/21 - attended first seminar, got basic insight on the course as a whole and the assesment information
 - 15/10/21- began exploring my digital identiry and gained a basic understanding of it
+- 21/10/21 - after seminar I drafted my digital identites 
+- 28/10/21 - I starated to plan my essay
+- 29/10/21 - I changed all the neccessary things into my student number
+- 4/11/21- I completed the introduction to my essay
+- 11/11/21 - I finished the first draft of my essay
+- 18/11/21 - I began exploring different website creators other than github
+- 20/11/21- I narrowed down the website creators to WordPress, Wix and SquareSpace.
+- 22/11/21 - I decided to go with WordPress
+- 23/11/21 - I created my own website domain using my student number
+- 27/11/21 - I re-read my esasy and made a few minor adjustments 
+- 29/11/21- I decided to base my webiste on my proffesional identity as there is more to explore
+- 5/12/21 - began exploring different themes to use for my website
+- 11/12/21 - chsoe final theme
+- 16/12/21- noted down all my professional identities both past and present (in and out of education)
+- 20/12/21- had a go at inputting some things into the website
+
 ## TODO
 ### week 4 - websites
 #### index.md
