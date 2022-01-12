@@ -1,9 +1,7 @@
 # 2004810 AU portfolio
 ## Overview
 
-It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
-- project management
-- writing articles
+- writing essay
 - web-design with wordpress
 - self-and peer-assessment
 - final checklist 
@@ -65,19 +63,24 @@ How to use this GitHub repository as a template for your submission, including h
 - 11/12/21 - chsoe final theme
 - 16/12/21- noted down all my professional identities both past and present (in and out of education)
 - 20/12/21- had a go at inputting some things into the website
+- 7/1/22 - made some final changes to website and its template
+- 12/1/22 - messaged my peer for peer assesment
+- 12/12/22 - finalise everything 
+- 13/12/22 - completed self-assesment 
 
 ## TODO
-### week 4 - websites
-#### index.md
-- link good minimal examples
-- beautify index.md
+### essay
 - plan essay
-- add social media icons for hyperlinks
+- convert essay to PDF 
+- review essay
     - 
-## by week 7
-- make screencast demonstrating the submission of this repository
-- go through this repository with students and clarify if needed
-- start essay, what is my digital identity? e.g. online social media accounts
+### website
+- research differnt website creation tools 
+- pick what website creator to use
+- plan what I will put on webiste (what is my proffesional identity?)
+- link social media accounts 
+- link website 
+- message my peer for peer assesment 
 <br>
 
 ## References
