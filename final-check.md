@@ -4,8 +4,6 @@ Coursework title: Digital Portfolio
 Marker: Krisztian Hofstadter  
 GitHub repository URL: https://github.com/2004810/CS220-AU-portfolio
 
-## Checklist
-<!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
 
 ### General
 I made sure that
@@ -15,7 +13,7 @@ I made sure that
 ### Website
 I used the `index.md` file 
 - [x] to support one of my own professional/institutional identities (or projects) and used the GitHub Pages function to turn this file into a website. I understand that as an alternative to GitHub Pages, I could have used another content management system e.g. WordPress to create my website and that I could have added additional pages if essential.
-- [ ] I provided a URL to my website in my repository's sidebar
+- [x] I provided a URL to my website in my repository's sidebar
 
 ### DI Reflection
 - [x] I wrote my reflection on digital identities focusing on developing my own digital identities 
@@ -27,16 +25,11 @@ I used the `index.md` file
 In the `assessement.md` file I
 - [x] familiarised myself with the marking rubric
 - [x] filled in the self-assessment table
-- [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
+- [x] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
 - [x] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
 
-The student number of the student I provided feedback with is: <!-- #todo : add your classmate's student number -->  
+The student number of the student I provided feedback with is: <!-- 2008462 -->  
 
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
-- download this .md file to your computer
-- rename both files to submit on FASER so that they show your student number e.g. `0610279-di-reflection.PDF` and `0610279-final-check.md` 
-- submit these two files on FASER
-- relax
+
 -->
 
