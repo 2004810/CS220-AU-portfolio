@@ -5,6 +5,21 @@
 - web-design with wordpress
 - self-and peer-assessment
 - final checklist 
+ 
+ The URL of the website, using the index.md file can be found in the sidebar of this repository, under 'About'. It is a home page that contains my website.
+
+The portfolio items I will submit contains the following:
+
+website - a simple website that supports my institutional/professional identity, following a blog format highlighting non instituional interests. It is similar to a Cv in the sense that it follows my education and work history. I  decided to use Wordpress over other web management systems such as WIX as it was free and simple to navigate and input information. 
+di reflection - a short written work (essay) where I reflected on my digital identities including both, visitor and resident modes (White, 2013). I wrote my reflection in Word, however I submitted it as a PDF file on FASER.
+self-and peer-assessment - Using the CS220 AU marking rubric in the assessment.md file my peer and I helped to track my progress. I Evaluated my work and gave feedback to my peers' work.
+portfolio overview - This is the portfolio overview, where I outline my completed tasks (Log) and tasks to do (TODO) in the README.md file.
+I have added my student number and portfolio's URL in the final-check.md file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER.
+
+I have submitted my files, like this:
+
+2004810-di-reflection.pdf
+2004810-final-check.md
 
 
 <br>
